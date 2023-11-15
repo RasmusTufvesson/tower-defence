@@ -1,0 +1,5 @@
+EnemyTemplate(
+    sprite: "sprites/basic_enemy.png",
+    health: 1.0,
+    speed: 0.5,
+)

@@ -1,0 +1,5 @@
+TowerTemplate(
+    sprite: "sprites/basic_tower.png",
+    attack_speed: 0.5,
+    attack: "attacks/basic_tower.ron",
+)

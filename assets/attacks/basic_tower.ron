@@ -1,0 +1,4 @@
+AttackTemplate(
+    sprite: "sprites/basic_attack.png",
+    damage: 1.0,
+)
